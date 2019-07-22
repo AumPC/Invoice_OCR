@@ -3,6 +3,7 @@ Invoice OCR Project: To extract important data of Invoice and Import-Export Entr
 
 ### Requirement
 - Python 2.7+ or 3.x
+- PyPDF4 [Link] (https://github.com/claird/PyPDF4)
 - Tesseract OCR [Link] (https://github.com/tesseract-ocr/tesseract)
 - PyTesseract [Link] (https://pypi.org/project/pytesseract/#description)
 
